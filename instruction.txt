@@ -1,5 +1,5 @@
 Download:
-<ESP32Servo.h>
+<ESP32Servo.h> == 0.4.2
 
 Use:
 ESP32-cam, 
